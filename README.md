@@ -1,3 +1,13 @@
+# Objectives 
+  1.Create a class component called PersonCard that accepts the following props: 
+
+    firstName
+    lastName
+    age
+    hairColor
+  2.Display four PersonCard components that show four different people, using props.
+  3.Using state, create a button with an onClick event that will increase the person's age by one. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
